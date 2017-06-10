@@ -1,37 +1,31 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about, vini, palma]
+date: 2017-06-09
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Skills
 
-## Preview
+### Front-end
+* Develop new user-facing features
+* Build reusable code and libraries for future use
+* Ensure the technical feasibility of UI/UX designs
+* Optimize application for maximum speed and scalability
+* Assure that all user input is validated before submitting to back*end
+* Collaborate with other team members and stakeholders
+* Experience with: React, Ember, Vue, Angular, etc...
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+### Back-end
+* Participate in the entire application lifecycle, focusing on coding and debugging
+* Write clean code to develop functional web applications
+* Troubleshoot and debug applications
+* Perform UI tests to optimize performance
+* Manage cutting-edge technologies to improve legacy applications
+* Collaborate with Front-end developers to integrate user-facing elements with server side logic
+* Gather and address technical and design requirements
+* Build reusable code and libraries for future use
+* Liaise with developers, designers and system administrators to identify new features
+* Follow emerging technologies
+* Experience with: Ruby on Rails, Node and Phoenix (Elixir)
